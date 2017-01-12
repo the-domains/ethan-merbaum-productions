@@ -1,0 +1,35 @@
+typography_spectrum: 0.2807106110267341
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.179270671447739
+  lightness: 0.1396177753340453
+  saturation: 0.0852978159673512
+  rhythmicContrast: 0.9366735660005361
+  brandColors:
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+github: true
+layout_spectrum: 0.5304699132684618
+analytics:
+  twitter: ''
+  google: UA-80231770-2
+author:
+  name: Ethan Merbaum
+  email: emerbaum@gmail.com
+  url: 'http://ethanmerbaum.com'
+name: Ethan Merbaum Productions
+url: 'http://ethanmerbaum.com'
+title: Ethan Merbaum Productions
+content: []
+description: Turn-key videography and photography.
+purpose:
+  - type: contact
+    url: 'mailto:emerbaum@gmail.com'
+    label: Write Me
+  - type: contact
+    url: 'tel:4045185089'
+    label: Call Me
